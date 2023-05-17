@@ -14,7 +14,7 @@ Comparing our approach with using glove word embeddings, we observed that the be
 Our findings suggest that utilizing context-aware word embeddings has the potential to enhance the performance of the QANet model in question answering tasks. However, it is important to note that this improvement comes at the cost of increased training time.
 
 ## Getting Started:
-1. Upload the jupyter notebook in Kaggle notebooks and we created our datasets and made it public on kaggle. Here are the links: \
+1. Upload the jupyter notebook in Kaggle notebooks and we created our datasets and made it public on kaggle. Replace the paths if you are using colab or any other ipython tool. Here are the links: \
 https://www.kaggle.com/datasets/sakshi12345/qanetdata \
 https://www.kaggle.com/datasets/vamsikrishnaa20/bert300all 
 2. Add the datasets to your notebook. 
