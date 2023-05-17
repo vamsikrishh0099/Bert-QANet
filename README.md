@@ -15,7 +15,7 @@ Our findings suggest that utilizing context-aware word embeddings has the potent
 
 ## Getting Started:
 1. Upload the jupyter notebook in Kaggle notebooks and we created our datasets and made it public on kaggle. Here are the links: \
-https://www.kaggle.com/datasets/sakshi12345/qanetdata 
+https://www.kaggle.com/datasets/sakshi12345/qanetdata \
 https://www.kaggle.com/datasets/vamsikrishnaa20/bert300all 
 2. Add the datasets to your notebook. 
 3. Connect to GPU on Kaggle and run all cells. 
