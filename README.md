@@ -18,4 +18,4 @@ Our findings suggest that utilizing context-aware word embeddings has the potent
 https://www.kaggle.com/datasets/sakshi12345/qanetdata \
 https://www.kaggle.com/datasets/vamsikrishnaa20/bert300all 
 2. Add the datasets to your notebook. 
-3. Connect to GPU on Kaggle and run all cells. 
+3. Connect to GPU on Kaggle and run all cells.
